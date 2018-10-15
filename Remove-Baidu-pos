@@ -29,7 +29,4 @@
       target[i].parentNode.removeChild(target[i]);
       }
     }
-    
-    console.log("pos.baidu is clear")
-
   })();
